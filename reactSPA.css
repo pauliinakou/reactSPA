@@ -1,0 +1,18 @@
+.Link {
+    color: magenta;
+    font-weight: bold;
+    padding: 15px;
+    text-decoration: none;
+    background: lightgrey;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.Link:hover {
+    background: black;
+}
+
+.Link:focus {
+    background: black;
+}

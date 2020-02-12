@@ -1,0 +1,44 @@
+{
+    "autot": [
+      {
+        "id": 1,
+        "Merkki": "Opel",
+        "Malli": "Astra"
+      },
+      {
+        "id": 2,
+        "Merkki": "Mercedez Benz",
+        "Malli": "CLK"
+      },
+      {
+        "id": 67,
+        "Merkki": "Lada",
+        "Malli": "Niva"
+      },
+      {
+        "id": 112,
+        "Merkki": "Mazda",
+        "Malli": "627"
+      },
+      {
+        "id": 113,
+        "Merkki": "BMW",
+        "Malli": "530d"
+      },
+      {
+        "Merkki": "Vw",
+        "Malli": "Golf",
+        "id": 114
+      },
+      {
+        "Merkki": "Toyota",
+        "Malli": "Yaris II",
+        "id": 115
+      },
+      {
+        "id": 116,
+        "Merkki": "Toyota",
+        "Malli": "Yaris II"
+      }
+    ]
+  }
